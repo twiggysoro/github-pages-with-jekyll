@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm trying GitHub for the first time!
+Learning how to use it
+Advice is needed
