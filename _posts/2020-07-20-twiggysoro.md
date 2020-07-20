@@ -1,9 +1,4 @@
 ---
-layout: post
-title:  "GitHub Beginner"
+title: "Twiggysoro"
+date: 2020-07-20
 ---
-
-#Hi,
-First time on GitHub, just trying to figure it all out.
-Still trying to get the hang of it!
-Hopefully, I will pick it up quickly
